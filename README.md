@@ -6,7 +6,6 @@ SureTypeSC is implementation of algorithm for regenotyping of single cell data c
 These instructions will guide you through installation and testing of the program. The large project data (classifiers and testing data) are storted on Google Drive due to the GitHub filesize limitation. Please refer to the links in the corresponding folders (clf/ and data/).
 
 ### Prerequisites
-* git-lfs https://git-lfs.github.com/
 * python 2 (tested on Python 2.7.5)
 * scikit >= v0.19.1 (http://scikit-learn.org/stable/)
 * numpy >= v1.14.1 (http://www.numpy.org/)
