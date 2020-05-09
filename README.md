@@ -3,7 +3,7 @@ SureTypeSC is implementation of algorithm for regenotyping of single cell data c
 
 ## Getting Started
 
-These instructions will guide you through installation and testing of the program. It is important to have support for GIT LFS (https://git-lfs.github.com/) prior to cloning the project from GitHub as some of the project data (models and testing data) exceed the standard limit for file size on GitHub.
+These instructions will guide you through installation and testing of the program. The large project data (classifiers and testing data) are storted on Google Drive due to the GitHub filesize limitation. Please refer to the links in the corresponding folders (clf/ and data/).
 
 ### Prerequisites
 * git-lfs https://git-lfs.github.com/
