@@ -1,0 +1,17 @@
+README.md
+setup.py
+SureTypeSC.egg-info/PKG-INFO
+SureTypeSC.egg-info/SOURCES.txt
+SureTypeSC.egg-info/dependency_links.txt
+SureTypeSC.egg-info/requires.txt
+SureTypeSC.egg-info/top_level.txt
+genotyping/Config.py
+genotyping/DataLoader.py
+genotyping/MachineLearning.py
+genotyping/Settings.py
+genotyping/SureTypeSC.py
+genotyping/SureTypeSC_basic.py
+genotyping/Transformations.py
+genotyping/__init__.py
+genotyping/protocol.py
+genotyping/test.py

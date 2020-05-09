@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: SureTypeSC
+Version: 0.1
+Summary: My short description for my project.
+Home-page: https://github.com/puko818/SureTypeSC
+Author: Awesome Soul
+Author-email: me@example.com
+License: MIT
+Description: 
+        # SureTypeSC
+        ## Overview
+        
+        ## Dependencies
+        * scikit >= v0.19.1 (http://scikit-learn.org/stable/)
+        * numpy >= v1.14.1 (http://www.numpy.org/)
+        * pandas >= v0.22.0 (https://pandas.pydata.org/)
+        
+        ## Installation
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=2.7.5
+Description-Content-Type: text/markdown
